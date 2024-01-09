@@ -12,5 +12,5 @@
 - Laboratory Techniques: Highly proficient in a broad spectrum of advanced laboratory techniques, including those specified in Sample Test Instructions (STI), study protocols, and Standard Operating Procedures (SOPs). These advanced techniques encompass: Recrystallization, Distillation,Chromatography (TLC, GLPC[VPC], HPLC [exposure]), PCR, Acid-Base Extraction, Gel Electrophoresis, Infrared Spectroscopy, Mass Spectrometry, H NMR Spectroscopy, Microwave Distillation, Plant Tissue Culture, Statistical Analysis (Linear Regression, ANOVA, t-tests, etc.)
 - Laboratory Compliance: Demonstrated track record of maintaining rigorous adherence to laboratory compliance standards, ensuring the precision, reliability, and traceability of experimental outcomes in strict accordance with Sample Test Instructions (STI), study protocols, and Standard Operating Procedures (SOPs).
   
-### Projects
+### Projects 
 
