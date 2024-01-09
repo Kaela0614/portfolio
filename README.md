@@ -1,7 +1,7 @@
 # aspiring Data Analyst 
 ### Education
 - B.S., Biological Sciences|The University of Georgia| (_May 2021_)
-- #### Relavant Coursework: Biological Health Psychology, Calculus of One Variable I, Critical Thinking, Ecology, Elements of Physiology, General Chemistry, Genetics, Introduction Biochemistry and Molecular Biology, Introduction Poultry, Introduction to General Psychology, Introduction to Statistics, Organic Chemistry, Ornithology, Introductory Physics[Electricity and Magnetism, Optics, Modern Physics],  Plant Biology (Flowers), Plant Pathology (Fungi), Reproductive Endocrinology, Tropical Ecology
+- #### Relavant Coursework: Biological Health Psychology, Calculus of One Variable I, Critical Thinking, Ecology, Elements of Physiology, General Chemistry, Genetics, Introduction Biochemistry and Molecular Biology, Introduction Poultry, Introduction to General Psychology, Introduction to Statistics, Organic Chemistry, Ornithology, Introductory Physics (Electricity and Magnetism, Optics, Modern Physics),  Plant Biology (Flowers), Plant Pathology (Fungi), Reproductive Endocrinology, Tropical Ecology
 ### Academic Experience 
 - Learning by Leading at the University of Georgia State Botanical Gardens|Student Volunteer/Conservationist| Athens, GA| (_August 2020- May 2021_)
   - Mentors: Heather Alley (alley@uga.edu), Lauren Muller, and Jennifer Ceska (jceska@uga.edu)
