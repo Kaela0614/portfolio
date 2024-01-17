@@ -29,7 +29,7 @@
   - Consistent, dependable, and accurate in carrying out responsibilities for food management and regulations with achieving an Inspection Score of 96 (as of 2021) by the Georgia Department of Public Health
   - Delegated team workshops to maintain food and customer service expectations with a 4.8/5.0 satisfactory rating (Google Reviews) and known as UGA’s best dining hall across campus
     
--**Sales Associate (_seasonal_) @ Ross Dress For Less,	Lawrenceville, GA (_May 2018 - August 2019_)**
+- **Sales Associate (_seasonal_) @ Ross Dress For Less,	Lawrenceville, GA (_May 2018 - August 2019_)**
   - Anticipated customer needs and high-quality service while upholding brand standards and values to ensure customer satisfaction
   - Maintained a clean, organized inventory and curated displays of rotating seasonal clothing and accessories
   - Reviewed P&L with sales lead and store manager to identify highest & lowest penetration rates on all products, analyzing all products which increased efficiency of deliveries from store to customer
